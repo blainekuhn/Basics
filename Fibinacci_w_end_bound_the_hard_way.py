@@ -7,6 +7,7 @@ lst = []
 
 if end_of_list == 1:
    print("Fibonacci sequence up to %s: " %end_of_list)
+   print(0) #add this to start sequence at zero
    print(1)
 else:
    print("Fibonacci sequence up to %s: " % end_of_list)
